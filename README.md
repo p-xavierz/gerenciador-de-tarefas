@@ -1,4 +1,4 @@
-# 📝 Gerenciador de Tarefas(Em andamento)
+# 📝 Gerenciador de Tarefas
 
 Aplicação web de gerenciamento de tarefas desenvolvida com **React.js**, como projeto de estudo e prática em desenvolvimento web.
 
