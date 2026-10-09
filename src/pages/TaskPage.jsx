@@ -8,7 +8,7 @@ function TaskPage() {
   const description = searchParams.get("description");
 
   return (
-    <div className="h-screen w-screen bg-slate-500 p-6">
+    <div className="h-screen w-screen bg-blue-500 p-6">
       <div className="w-[500x] space-y-2">
         <div className="flex justify-center relative mb-6 text-slate-100">
           <button
